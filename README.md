@@ -1,6 +1,6 @@
 ## Clock Turtle
 
-[![ClockTurtle Gif][showcase]](showcase)
+![ClockTurtle Gif][showcase]
 
 Using Turtle to build a simple clock.
 
